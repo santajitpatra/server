@@ -1,5 +1,0 @@
-1688458785773: / New request received
-1688458804197: /about New request received
-1688458824994: GET /about New request received
-1688458833141: GET / New request received
-1688459416213: GET /signup New request received
